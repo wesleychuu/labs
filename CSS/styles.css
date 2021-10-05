@@ -3,6 +3,35 @@ body {
 }
 
 h1 {
-    color:#E59500;
+    color:#002642;
 }
 
+.myborder {
+    border: #02040F;
+    border-style: groove;
+}
+
+.class1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #E59500;
+}
+  
+.class2 {
+    float: left;
+}
+
+.class3 {
+    display: block;
+    color: #02040F;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+  
+.class3:hover{
+    background-color: #002642;
+    color: #E5DADA;
+}
