@@ -6,6 +6,14 @@ h1 {
     color:#002642;
 }
 
+p {
+    color:#02040F;
+}
+
+ul, li {
+    color:#02040F;
+}
+
 .myborder {
     border: #02040F;
     border-style: groove;
