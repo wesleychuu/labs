@@ -43,3 +43,13 @@ ul, li {
     background-color: #002642;
     color: #E5DADA;
 }
+
+nav {
+    position: sticky;
+    top: 20px;
+}
+
+.wrapimg {
+    float: left;
+    margin: 0px 12px 0px 0px;      
+}
